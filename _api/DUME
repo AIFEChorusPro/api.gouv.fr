@@ -1,0 +1,46 @@
+---
+title: API Chorus Pro - Service National DUME
+tagline: Implémentez les API du Service National DUME sur votre profil d'acheteur
+doc_tech: https://communaute.chorus-pro.gouv.fr/documentation/api/
+access_link: https://chorus-pro.gouv.fr/qualif/
+domain: https://www.chorus-pro.gouv.fr/
+contact : api-choruspro.aife@finances.gouv.fr
+contract: OUVERT sous contrat
+openapi_definition: http://localhost:4000/api/chorus-portail.pro.json
+clients:
+  - Editeurs
+  - Profils d'acheteurs
+partners:
+  - AIFE
+  - DAJ
+owner: AIFE
+keywords:
+  - DUME
+  - ESPD
+  - Dématérialisation
+  - Commande Publique
+logo: ChorusPro.jpg
+---
+
+## Qu’est-ce que le DUME ?
+Le DUME (Document Unique de Marché Européen) est une déclaration sur l’honneur permettant aux entreprises d’attester de leur compétence, de leur situation financière ainsi que de leurs capacités lorsqu’elles répondent à un marché public au sein d’un Etat de l’Union européenne. Il est utilisé comme preuve préliminaire dans l’offre administrative des procédures de passation de marchés publics.
+Le DUME a pour vocation de simplifier les processus de fourniture de documents et certificats attestant de l’éligibilité d’une entreprise à un marché public (critères d’exclusion et de sélection). En France, ce document a notamment vocation à se substituer aux DC1, DC2 ainsi qu’au programme « Marché Public Simplifié » (MPS).
+
+## Qu’est-ce que le Service DUME de Chorus Pro ?
+Les API Chorus Pro s’adressent aux éditeurs de place de marché / profils d’acheteurs souhaitant implémenter le DUME et / ou l’offre de service « données essentielle » proposé par l’AIFE.
+La description des API DUME est disponible sur la communauté Chorus Pro, et sont accompagnées cinématiques ainsi que de  bonnes pratiques d’implémentation. 
+
+## Site de qualification
+Le portail Chorus Pro de Qualification permet de se connecter à un environnement similaire à l’environnement de production, afin de prendre en main la solution et de monter en compétences.
+Dans cet environnement, il est possible d’exploiter les principales fonctionnalités du portail Chorus Pro - service DUME : enregistrement, recherche, téléchargement de DUME, etc.
+
+Pour les structures souhaitant mettre en œuvre un raccordement technique aux API DUME de Chorus Pro, le portail de Qualification offre la possibilité de se raccorder à un environnement de qualification pour réaliser les tests techniques nécessaires. **Cette étape est indispensable avant de se raccorder en production.**
+
+
+Il est accessible à cette [adresse](https://chorus-pro.gouv.fr/qualif/)
+
+## Site de Production
+Chorus Pro de production est accessible à cette [adresse](https://chorus-pro.gouv.fr/cpp/)
+
+## Site de la communauté Chorus Pro
+La communauté Chorus Pro - Service DUME est accessible à cette [adresse](https://communaute.chorus-pro.gouv.fr/pour-les-editeurs/)
